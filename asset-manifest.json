@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Bulbasaur-NFT-Collection/static/css/main.0a7a1adf.css",
-    "main.js": "/Bulbasaur-NFT-Collection/static/js/main.85585f9e.js",
+    "main.css": "/Bulbasaur-NFT-Collection/static/css/main.c73bcb80.css",
+    "main.js": "/Bulbasaur-NFT-Collection/static/js/main.6bb2fc0f.js",
     "index.html": "/Bulbasaur-NFT-Collection/index.html",
-    "main.0a7a1adf.css.map": "/Bulbasaur-NFT-Collection/static/css/main.0a7a1adf.css.map",
-    "main.85585f9e.js.map": "/Bulbasaur-NFT-Collection/static/js/main.85585f9e.js.map"
+    "main.c73bcb80.css.map": "/Bulbasaur-NFT-Collection/static/css/main.c73bcb80.css.map",
+    "main.6bb2fc0f.js.map": "/Bulbasaur-NFT-Collection/static/js/main.6bb2fc0f.js.map"
   },
   "entrypoints": [
-    "static/css/main.0a7a1adf.css",
-    "static/js/main.85585f9e.js"
+    "static/css/main.c73bcb80.css",
+    "static/js/main.6bb2fc0f.js"
   ]
 }
